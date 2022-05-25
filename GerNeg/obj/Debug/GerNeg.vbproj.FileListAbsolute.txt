@@ -1,0 +1,22 @@
+D:\Anthony\Gerenciador de negócios\GerNeg\bin\Debug\GerNeg.dll
+D:\Anthony\Gerenciador de negócios\GerNeg\bin\Debug\GerNeg.pdb
+D:\Anthony\Gerenciador de negócios\GerNeg\bin\Debug\GerNeg.xml
+D:\Anthony\Gerenciador de negócios\GerNeg\obj\Debug\GerNeg.Resources.resources
+D:\Anthony\Gerenciador de negócios\GerNeg\obj\Debug\GerNeg.vbproj.GenerateResource.Cache
+D:\Anthony\Gerenciador de negócios\GerNeg\obj\Debug\GerNeg.dll
+D:\Anthony\Gerenciador de negócios\GerNeg\obj\Debug\GerNeg.xml
+D:\Anthony\Gerenciador de negócios\GerNeg\obj\Debug\GerNeg.pdb
+D:\Anthony\Gerenciador de negócios\GerNeg\obj\Debug\GerNeg.frmPRINC.resources
+D:\Anthony\Gerenciador de negócios\GerNeg\bin\Debug\GerNeg.dll.config
+D:\Anthony\Gerenciador de negócios\GerNeg\obj\Debug\GerNeg.frmLOGIN.resources
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\GerNeg\bin\Debug\GerNeg.dll.config
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\GerNeg\bin\Debug\GerNeg.dll
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\GerNeg\bin\Debug\GerNeg.pdb
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\GerNeg\bin\Debug\GerNeg.xml
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\GerNeg\obj\Debug\GerNeg.frmPRINC.resources
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\GerNeg\obj\Debug\GerNeg.frmLOGIN.resources
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\GerNeg\obj\Debug\GerNeg.Resources.resources
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\GerNeg\obj\Debug\GerNeg.vbproj.GenerateResource.Cache
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\GerNeg\obj\Debug\GerNeg.dll
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\GerNeg\obj\Debug\GerNeg.xml
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\GerNeg\obj\Debug\GerNeg.pdb

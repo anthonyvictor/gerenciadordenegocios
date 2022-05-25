@@ -1,0 +1,26 @@
+D:\Anthony\Gerenciador de negócios\Gerenciador de negócios\bin\Debug\Gerenciador de negócios.exe
+D:\Anthony\Gerenciador de negócios\Gerenciador de negócios\bin\Debug\Gerenciador de negócios.pdb
+D:\Anthony\Gerenciador de negócios\Gerenciador de negócios\bin\Debug\Gerenciador de negócios.xml
+D:\Anthony\Gerenciador de negócios\Gerenciador de negócios\obj\x86\Debug\Gerenciador_de_negócios.Resources.resources
+D:\Anthony\Gerenciador de negócios\Gerenciador de negócios\obj\x86\Debug\Gerenciador de negócios.vbproj.GenerateResource.Cache
+D:\Anthony\Gerenciador de negócios\Gerenciador de negócios\obj\x86\Debug\Gerenciador de negócios.exe
+D:\Anthony\Gerenciador de negócios\Gerenciador de negócios\obj\x86\Debug\Gerenciador de negócios.xml
+D:\Anthony\Gerenciador de negócios\Gerenciador de negócios\obj\x86\Debug\Gerenciador de negócios.pdb
+D:\Anthony\Gerenciador de negócios\Gerenciador de negócios\bin\Debug\GerNeg.dll
+D:\Anthony\Gerenciador de negócios\Gerenciador de negócios\bin\Debug\GerNeg.pdb
+D:\Anthony\Gerenciador de negócios\Gerenciador de negócios\bin\Debug\GerNeg.xml
+D:\Anthony\Gerenciador de negócios\Gerenciador de negócios\obj\x86\Debug\Gerenciador de negócios.vbprojResolveAssemblyReference.cache
+D:\Anthony\Gerenciador de negócios\Gerenciador de negócios\obj\x86\Debug\Gerenciador_de_negócios.frMAE.resources
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\Gerenciador de negócios\obj\x86\Debug\Gerenciador de negócios.exe
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\Gerenciador de negócios\obj\x86\Debug\Gerenciador de negócios.xml
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\Gerenciador de negócios\obj\x86\Debug\Gerenciador de negócios.pdb
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\Gerenciador de negócios\bin\Debug\Gerenciador de negócios.exe
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\Gerenciador de negócios\bin\Debug\Gerenciador de negócios.pdb
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\Gerenciador de negócios\bin\Debug\Gerenciador de negócios.xml
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\Gerenciador de negócios\bin\Debug\GerNeg.dll
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\Gerenciador de negócios\bin\Debug\GerNeg.pdb
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\Gerenciador de negócios\bin\Debug\GerNeg.xml
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\Gerenciador de negócios\obj\x86\Debug\Gerenciador de negócios.vbprojResolveAssemblyReference.cache
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\Gerenciador de negócios\obj\x86\Debug\Gerenciador_de_negócios.frMAE.resources
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\Gerenciador de negócios\obj\x86\Debug\Gerenciador_de_negócios.Resources.resources
+E:\Anthony\Documents\1 - Thonny Studios\Visual Studio\Gerenciador de negócios\Gerenciador de negócios\obj\x86\Debug\Gerenciador de negócios.vbproj.GenerateResource.Cache
